@@ -44,6 +44,9 @@ I believe in scalable projects and enjoy trying new stuffs.
 - [prettier](https://prettier.io/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Docusaurus](https://docusaurus.io/)
+- [CircleCI](https://app.circleci.com/)
+- [Docker](https://www.docker.com/)
+
 
 ## Next interesting stuffs to work on 👀
 
