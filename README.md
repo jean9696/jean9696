@@ -20,14 +20,12 @@ I believe in scalable projects and enjoy trying new stuffs.
 
 ## Find out more stuff 🔍
 
-<div>
-    <div style="display: flex; align-items: center; gap: 24px;">
-        <a href="https://medium.com/@jean.dessane" target="_blank"> 
-            <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"  alt="medium"/>
-        </a>
-        <a href="https://www.habx.com/tech/" target="_blank"> 
-            <img width="80" src="https://res.cloudinary.com/habx/image/upload/v1525268014/logos/habx.png"  alt="company blog"/>
-        </a>
-    </div> 
-</div>
+<div style="display: flex; align-items: center; gap: 24px;">
+    <a href="https://medium.com/@jean.dessane" target="_blank"> 
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"  alt="medium"/>
+    </a>
+    <a href="https://www.habx.com/tech/" target="_blank"> 
+        <img width="80" src="https://res.cloudinary.com/habx/image/upload/v1525268014/logos/habx.png"  alt="company blog"/>
+    </a>
+</div> 
 
