@@ -12,13 +12,14 @@ I believe in scalable projects and enjoy trying new stuffs.
 
 ## I work daily with theses 👨‍💻
 
-- [Typescript](https://www.typescriptlang.org/)
-- [GraphQL](https://graphql.org/)
-- [Apollo](https://www.apollographql.com/docs/react/)
+I'm focused on front-end development with [React](https://fr.reactjs.org/) & [Typescript](https://www.typescriptlang.org/)
+and manage data with [Apollo](https://www.apollographql.com/docs/react/) for [GraphQL](https://graphql.org/) calls
+
+<details>
+  <summary>More</summary>
 
 ### Front-end
 
-- [React](https://fr.reactjs.org/)
 - [final-form](https://final-form.org/react)
 - [react-table](https://react-table.tanstack.com/)
 - [konva](https://konvajs.org/)
@@ -47,6 +48,7 @@ I believe in scalable projects and enjoy trying new stuffs.
 - [CircleCI](https://app.circleci.com/)
 - [Docker](https://www.docker.com/)
 
+</details>
 
 ## Next interesting stuffs to work on 👀
 
