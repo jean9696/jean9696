@@ -36,6 +36,7 @@ and manage data with [Apollo](https://www.apollographql.com/docs/react/) for [Gr
 
 - [Node](https://nodejs.org/en/)
 - [Koa](https://koajs.com/)
+- [TypeGraphQL](https://typegraphql.com/)
 - [postgres](https://www.postgresql.org/) (little rusty on this one)
 
 ### Other...
