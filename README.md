@@ -53,7 +53,7 @@ and manage data with [Apollo](https://www.apollographql.com/docs/react/) for [Gr
 
 ## Next interesting stuffs to work on 👀
 
-- [Micro-front ends](https://webpack.js.org/concepts/module-federation/) _(waiting for CRA 5 release... 😭)_
+- [Micro-front ends](https://webpack.js.org/concepts/module-federation/) 
 - [Kubernetes](https://kubernetes.io/) 
 - [Deno](https://deno.land/)
 
